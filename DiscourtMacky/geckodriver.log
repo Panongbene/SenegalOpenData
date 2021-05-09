@@ -1,0 +1,127 @@
+1620569535251	geckodriver	INFO	Listening on 127.0.0.1:49245
+1620569535255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7fzYPA"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x1002/0x15d8
+[GFX1-]: PCI candidate 0x10de/0x1c91
+1620569537785	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620569539763	Marionette	INFO	Listening on port 34283
+1620569539796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620569640135	geckodriver	INFO	Listening on 127.0.0.1:39877
+1620569641142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5PxlKT"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x1002/0x15d8
+[GFX1-]: PCI candidate 0x10de/0x1c91
+1620569641916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620569643828	Marionette	INFO	Listening on port 35347
+1620569643880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620569732262	Marionette	INFO	Stopped listening on port 34283
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620571468330	Marionette	INFO	Stopped listening on port 35347
+1620571479893	geckodriver	INFO	Listening on 127.0.0.1:35049
+1620571480898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Lp7C4"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x1002/0x15d8
+[GFX1-]: PCI candidate 0x10de/0x1c91
+1620571482092	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620571483998	Marionette	INFO	Listening on port 33897
+1620571484027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620571584316	geckodriver	INFO	Listening on 127.0.0.1:48445
+1620571585330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewz42P3"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x1002/0x15d8
+[GFX1-]: PCI candidate 0x10de/0x1c91
+1620571586091	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620571588020	Marionette	INFO	Listening on port 39075
+1620571588065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620571667275	Marionette	INFO	Stopped listening on port 39075
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620571935349	geckodriver	INFO	Listening on 127.0.0.1:56197
+1620571936355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSzO57p"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x1002/0x15d8
+[GFX1-]: PCI candidate 0x10de/0x1c91
+1620571937028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620571939214	Marionette	INFO	Listening on port 34399
+1620571939291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620572074107	Marionette	INFO	Stopped listening on port 34399
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620572154628	Marionette	INFO	Stopped listening on port 33897
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620572271267	geckodriver	INFO	Listening on 127.0.0.1:51569
+1620572272281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiXZMJ0"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x1002/0x15d8
+[GFX1-]: PCI candidate 0x10de/0x1c91
+1620572273480	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620572275463	Marionette	INFO	Listening on port 44355
+1620572275528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620572350111	Marionette	INFO	Stopped listening on port 44355
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620572903564	geckodriver	INFO	Listening on 127.0.0.1:33175
+1620572904570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesCmiu7"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x1002/0x15d8
+[GFX1-]: PCI candidate 0x10de/0x1c91
+1620572905768	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620572907631	Marionette	INFO	Listening on port 40335
+1620572907703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620572982318	Marionette	INFO	Stopped listening on port 40335
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620575558644	geckodriver	INFO	Listening on 127.0.0.1:43629
+1620575559650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNWeLgN"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x1002/0x15d8
+[GFX1-]: PCI candidate 0x10de/0x1c91
+1620575560346	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620575562470	Marionette	INFO	Listening on port 38113
+1620575562577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620575637385	Marionette	INFO	Stopped listening on port 38113
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620583165909	geckodriver	INFO	Listening on 127.0.0.1:49925
+1620583166910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBHedDN"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x1002/0x15d8
+[GFX1-]: PCI candidate 0x10de/0x1c91
+1620583167848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620583169700	Marionette	INFO	Listening on port 36385
+1620583169749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620583244372	Marionette	INFO	Stopped listening on port 36385
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620583827144	geckodriver	INFO	Listening on 127.0.0.1:56529
+1620583828144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefgqdrM"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x1002/0x15d8
+[GFX1-]: PCI candidate 0x10de/0x1c91
+1620583829107	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620583830975	Marionette	INFO	Listening on port 39271
+1620583831071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620583896505	Marionette	INFO	Stopped listening on port 39271
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
